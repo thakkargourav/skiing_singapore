@@ -1,5 +1,5 @@
 #Problem Statement
-
+```
 Sometimes it's nice to take a break and code up a solution to a small, fun problem. Here is one some of our engineers enjoyed recently called Skiing In Singapore.
 
 Well you can’t really ski in Singapore. But let’s say you hopped on a flight to the Niseko ski resort in Japan. Being a software engineer you can’t help but value efficiency, so naturally you want to ski as long as possible and as fast as possible without having to ride back up on the ski lift. So you take a look at the map of the mountain and try to find the longest ski run down.
@@ -25,7 +25,7 @@ On this particular map the longest path down is of length=5 and it’s highlight
 There is another path that is also length five: 8-5-3-2-1. However the tie is broken by the first path being steeper, dropping from 9 to 1, a drop of 8, rather than just 8 to 1, a drop of 7.
 
 Your challenge is to write a program in your favorite programming language to find the longest (and then steepest) path for a given map.
-
+```
 # Minimum Requirements
 Java 8 - This program uses Java 8's streams and lamda functions.
 # Building
